@@ -1,9 +1,7 @@
-# ThomasZaborenko.github.io
-
 # Projects
 ### Project 1
 - Description
-- [LinkedIn](https://www.linkedin.com/in/thomas-zabo/)
+- Links
 
 ### Project 2
 - Description
