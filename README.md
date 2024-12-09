@@ -3,7 +3,7 @@
 # Projects
 ### Project 1
 - Description
-- Links
+- [LinkedIn](https://www.linkedin.com/in/thomas-zabo/)
 
 ### Project 2
 - Description
