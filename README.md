@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, APIs
 
 ## Education
--DePaul Univserity: Bachelor of Science - BS, Financial Mathematics
--Junior (Expected Graduation: May 2026)
--GPA: 3.8
+- DePaul Univserity: Bachelor of Science - BS, Financial Mathematics
+- Junior (Expected Graduation: May 2026)
+- GPA: 3.8
 
 ## Projects
 ### Project 1
