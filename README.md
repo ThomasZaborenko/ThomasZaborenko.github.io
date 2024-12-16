@@ -10,7 +10,7 @@
 ## Projects
 ### Project 1
 - Description
-- <img src="/docs/logo.png" alt="My cool logo"/>
+- <img src="docs/assets/model_1.png" alt="Model 1"/>
 
 ### Project 2
 - Description
