@@ -17,41 +17,51 @@ I developed a trading system that uses technical indicators (RSI, Bollinger Band
 - **Risk Management**: Includes trailing stop-loss, maximum drawdown tracking, and win-rate calculations.
 - **Performance Metrics**: Evaluates strategies using Sharpe Ratio, cumulative returns, and trade duration.
 
-#### Visualizations
-- **Price Chart with Buy/Sell Signals**:
-  - Visualizes trading signals on stock price data.
-- **Optimization Progress**:
-  - Convergence plots and parameter evaluations show the optimization process.
-
-#### Tools and Libraries Used
-- Python (Pandas, NumPy, Plotly)
-- Scikit-Optimize (for Bayesian Optimization)
-- Matplotlib (for additional plots)
-
 ---
 
 This project helped me learn about trading algorithms, quantitative analysis, and Python-based financial modeling.
 
 ---
 
-#### Signals Plot
-Below is an example of the price chart with buy and sell signals:
+#### Combined Walk-Forward Analysis
+The price chart displays clear **buy** (green triangles) and **sell** (red triangles) signals. The strategy performed well during uptrends while managing risks during drawdowns. This chart shows the strategy’s buy and sell signals plotted against the stock price:
 
-![Price Chart with Signals](docs/assets/momp_plot.png)
+![Combined Walk-Forward Analysis](docs/assets/momp_plot.png)
 
 #### Convergence Plot
-Below is an example of the convergence plot:
+The convergence plot shows rapid improvements in the first 20 iterations, with the objective stabilizing soon after. This indicates that Bayesian optimization quickly found near-optimal parameters. The plot shows how the objective value (negative Sharpe Ratio) improves with each iteration of the Bayesian optimization process:
 
-![Price Chart with Signals](docs/assets/convergence_plot.png)
+![Convergence Plot](docs/assets/convergence_plot.png)
 
 #### Partial Dependence Plot
-Below is an example of the partial depedence plot:
+The partial depedence plot shows optimal **RSI levels** at 75 (overbought) and 20 (oversold) align with momentum trading strategies. To add, small stop-loss values and higher take-profit percentages contribute to better risk-reward balance. This visualization highlights how each parameter impacts the system’s performance:
 
-![Price Chart with Signals](docs/assets/partialDependence_plot.png)
+![Partial Dependence Plot](docs/assets/partialDependence_plot.png)
 
 ---
 
-## How to Run the Project
+#### Results
+
+#### Best Parameters Found
+- **RSI Overbought**: 75  
+- **RSI Oversold**: 20  
+- **Trailing Stop Percentage**: 10%  
+- **Stop-Loss Percentage**: 1.35%  
+- **Take-Profit Percentage**: 14.64%
+
+#### Performance Metrics
+- **Sharpe Ratio**: 0.49  
+- **Cumulative Return**: 132.96%  
+- **Maximum Drawdown**: 30.49%  
+- **Win Rate**: 50.77%  
+- **Average Trade Duration**: 18 days, 19 hours, 39 minutes
+
+#### Tools and Libraries Used
+- Python (Pandas, NumPy, Plotly)
+- Scikit-Optimize (for Bayesian Optimization)
+- Matplotlib (for additional plots)
+
+#### How to Run the Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/momentum-trading-system.git
