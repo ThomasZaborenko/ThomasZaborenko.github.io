@@ -10,11 +10,11 @@
 ## Projects
 ### Project 1
 - Description
-- Links
+- <img src="/docs/logo.png" alt="My cool logo"/>
 
 ### Project 2
 - Description
-- Links
+- <img src="/docs/logo.png" alt="My cool logo"/>
 
 ## Work Experience
 **Customer Service @ Abt Electronics (_Aug 2023 - Present_)**
