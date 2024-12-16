@@ -64,7 +64,7 @@ The partial depedence plot shows optimal **RSI levels** at 75 (overbought) and 2
 #### How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ThomasZaborenko/momentum-trading-system.git]
+   git clone https://github.com/ThomasZaborenko/momentum-trading-system.git
    
 ### Project 2
 - Description
