@@ -34,10 +34,20 @@ This project helped me learn about trading algorithms, quantitative analysis, an
 
 ---
 
-#### Example Plot
+#### Signals Plot
 Below is an example of the price chart with buy and sell signals:
 
 ![Price Chart with Signals](docs/assets/momp_plot.png)
+
+#### Convergence Plot
+Below is an example of the convergence plot:
+
+![Price Chart with Signals](docs/assets/convergence_plot.png)
+
+#### Partial Dependence Plot
+Below is an example of the partial depedence plot:
+
+![Price Chart with Signals](docs/assets/partialDependence_plot.png)
 
 ---
 
