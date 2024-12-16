@@ -57,9 +57,9 @@ The partial depedence plot shows optimal **RSI levels** at 75 (overbought) and 2
 - **Average Trade Duration**: 18 days, 19 hours, 39 minutes
 
 #### Tools and Libraries Used
-- Python (Pandas, NumPy, Plotly)
-- Scikit-Optimize (for Bayesian Optimization)
-- Matplotlib (for additional plots)
+- **Python** (Pandas, NumPy, Plotly)
+- **Scikit-Optimize** (for Bayesian Optimization)
+- **Matplotlib** (for additional plots)
 
 #### How to Run the Project
 1. Clone this repository:
