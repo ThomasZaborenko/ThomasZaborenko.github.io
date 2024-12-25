@@ -74,6 +74,6 @@ In this project, I demonstrated my ability to collect, process, and visualize fi
 
 Once the data was collected, I utilized Tableau to create an interactive dashboard that highlights key metrics such as risk-adjusted returns, profitability, and capacity across trading strategies. The dashboard includes scatter plots for performance vs. risk analysis, treemaps for strategy capacity, and pie charts for fee distribution. These visualizations allowed me to uncover meaningful insights, such as identifying strategies with optimal risk-return profiles and visualizing how fees impact profitability.
 
-![Dashboard](docs/assets/partialDependence_plot.png)
+![Dashboard](docs/assets/Multi-Metric_Dashboard_(13_Strat.png)
 
 Through this project, I gained hands-on experience in data scraping, database organization, and interactive data visualization. It deepened my understanding of financial metrics like Sharpe Ratio, Alpha, Beta, and Drawdown, and enhanced my skills in presenting complex quantitative data in an intuitive and visually compelling way. This project not only solidified my technical skills but also showcased my ability to translate raw data into actionable insights for quantitative finance.
