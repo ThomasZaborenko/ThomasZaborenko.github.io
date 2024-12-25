@@ -65,3 +65,15 @@ The partial depedence plot shows optimal **RSI levels** at 75 (overbought) and 2
 1. Clone this repository:
    ```bash
    git clone https://github.com/ThomasZaborenko/momentum-trading-system.git
+
+---
+
+### Algorithmic Strategies Dashboard
+
+In this project, I demonstrated my ability to collect, process, and visualize financial data. Using Python, I developed a web scraper to extract detailed statistical summaries of algorithmic trading strategies from the Quantpedia website. I then structured the scraped data into a clean and organized Excel database, ensuring compatibility for advanced analysis. This process required handling dynamic web content with tools like Selenium and BeautifulSoup, managing large datasets, and automating workflows.
+
+Once the data was collected, I utilized Tableau to create an interactive dashboard that highlights key metrics such as risk-adjusted returns, profitability, and capacity across trading strategies. The dashboard includes scatter plots for performance vs. risk analysis, treemaps for strategy capacity, and pie charts for fee distribution. These visualizations allowed me to uncover meaningful insights, such as identifying strategies with optimal risk-return profiles and visualizing how fees impact profitability.
+
+![Dashboard](docs/assets/partialDependence_plot.png)
+
+Through this project, I gained hands-on experience in data scraping, database organization, and interactive data visualization. It deepened my understanding of financial metrics like Sharpe Ratio, Alpha, Beta, and Drawdown, and enhanced my skills in presenting complex quantitative data in an intuitive and visually compelling way. This project not only solidified my technical skills but also showcased my ability to translate raw data into actionable insights for quantitative finance.
