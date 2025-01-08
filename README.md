@@ -1,11 +1,12 @@
 # Financial Mathematics Student
 
-#### Technical Skills: Python, SQL, APIs
+#### Technical Skills: Python, Selenium, NLP, Rest APIs
 
 ## Education
 - DePaul University: Bachelor of Science - BS, Financial Mathematics
 - Junior (Expected Graduation: May 2026)
 - GPA: 3.8
+- Captain of Quant Team at DePaul's Investment Group (DIG)
 
 ## Projects
 ### Momentum Trading System
