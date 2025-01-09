@@ -83,4 +83,4 @@ Through this project, I gained hands-on experience in data scraping, database or
 
 ### Over 100 Projects Created on QuantConnect
 
-<script src='https://www.quantconnect.com/terminal/backtest.js?sid=e5bd53d8867a5e627b0385c6c6451b98'></script>
+![QC Project 1]('https://www.quantconnect.com/terminal/backtest.js?sid=e5bd53d8867a5e627b0385c6c6451b98')
