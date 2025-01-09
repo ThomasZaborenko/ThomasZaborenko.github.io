@@ -35,7 +35,7 @@ The convergence plot shows rapid improvements in the first 20 iterations, with t
 ![Convergence Plot](docs/assets/convergence_plot.png)
 
 #### Partial Dependence Plot
-The partial depedence plot shows optimal **RSI levels** at 75 (overbought) and 20 (oversold) align with momentum trading strategies. To add, small stop-loss values and higher take-profit percentages contribute to better risk-reward balance. This visualization highlights how each parameter impacts the system’s performance:
+The partial dependence plot shows optimal **RSI levels** at 75 (overbought) and 20 (oversold) align with momentum trading strategies. To add, small stop-loss values and higher take-profit percentages contribute to better risk-reward balance. This visualization highlights how each parameter impacts the system’s performance:
 
 ![Partial Dependence Plot](docs/assets/partialDependence_plot.png)
 
@@ -78,3 +78,9 @@ Once the data was collected, I utilized Tableau to create an interactive dashboa
 ![Dashboard](docs/assets/Multi-Metric Dashboard (13_Strat).png)
 
 Through this project, I gained hands-on experience in data scraping, database organization, and interactive data visualization. It deepened my understanding of financial metrics like Sharpe Ratio, Alpha, Beta, and Drawdown, and enhanced my skills in presenting complex quantitative data in an intuitive and visually compelling way. This project not only solidified my technical skills but also showcased my ability to translate raw data into actionable insights for quantitative finance.
+
+---
+
+### Over 100 Projects Created on QuantConnect
+
+<script src='https://www.quantconnect.com/terminal/backtest.js?sid=e5bd53d8867a5e627b0385c6c6451b98'></script>
